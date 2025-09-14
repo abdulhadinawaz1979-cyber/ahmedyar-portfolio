@@ -16,25 +16,30 @@ Hello — I’m **Ahmed Yar**, a motivated and creative student (Class 9) who lo
 - Clean, responsive portfolio layout  
 - About, Projects and Contact sections  
 - Profile photo and contact button (email link)  
-- Easy to edit HTML/CSS files
+- Easy to edit HTML/CSS files  
 
 ---
 
 ## Tech
 - HTML5  
 - CSS3  
-- (Optional) JavaScript for animations
+- (Optional) JavaScript for animations  
 
 ---
 
 ## How to view
 - **Locally:** open `index.html` in a browser (double-click the file).  
-- **Online:** visit the live demo URL above.
+- **Online:** visit the live demo URL above.  
+
+---
+
+## Preview
+![Site preview](screenshot.png)  
 
 ---
 
 ## Contact
-✉️ Email: meahmedkhanyar@gmail.com
+✉️ Email: **meahmedkhanyar@gmail.com**
 
 ---
 
