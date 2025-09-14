@@ -34,7 +34,7 @@ Hello — I’m **Ahmed Yar**, a motivated and creative student (Class 9) who lo
 ---
 
 ## Preview
-(![Site preview](Screenshot .png.png)
+![Site preview](Screenshot .png.png)
  
 
 ---
